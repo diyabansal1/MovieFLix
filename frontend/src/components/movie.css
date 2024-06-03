@@ -1,0 +1,91 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    height: 30%;
+    align-items: center;
+    background-color: #ac7399;
+    font-size: 30px;
+    color: white;
+
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 18px;
+
+}
+
+.search {
+    width: 500px;
+    font-size: 20px;
+
+}
+
+.btn {
+    height: 50px;
+    width: 20%;
+    background-color: rgb(179, 44, 100);
+    
+    color: white;
+    font-size: 20px;
+}
+
+.load {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42, 38, 38);
+    height: 633px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    overflow-x: hidden;
+
+}
+
+.viewbtn {
+
+    background-color: #9400D3;
+    border: 1px;
+    border: 1px;
+    color: white;
+    height: 30px;
+    width: 60px;
+    margin-top: 5px;
+
+}
+
+.button {
+
+
+    border: 1px;
+    border: 1px;
+    color: white;
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.register {
+    padding: 20px;
+
+
+
+}
+
+.normal {
+    background-color: #a6be4d;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px;
+    padding: 2px;
+
+}
